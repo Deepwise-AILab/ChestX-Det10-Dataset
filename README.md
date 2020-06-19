@@ -15,3 +15,11 @@ Below is an example annotation of one sample:
 For image downloading, please visit https://nihcc.app.box.com/v/ChestXray-NIHCC
 
 If you need to use ChestX-Det10, please cite the paper: https://arxiv.org/abs/2006.10550
+@misc{liu2020chestxdet10,
+    title={ChestX-Det10: Chest X-ray Dataset on Detection of Thoracic Abnormalities},
+    author={Jingyu Liu and Jie Lian and Yizhou Yu},
+    year={2020},
+    eprint={2006.10550},
+    archivePrefix={arXiv},
+    primaryClass={eess.IV}
+}
