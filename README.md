@@ -24,4 +24,4 @@ If you need to use ChestX-Det10, please cite the paper: https://arxiv.org/abs/20
     primaryClass={eess.IV}
 }
 
-If you want evaluate your detection results, please use eval.py. The detection results of each test sample should be stored as a JSON file. The JSON file name needs to be the same as the Image file name. For example, 10000.png corresponds to 10000.json. The format in each JSON file is [{“nodule”: [x1, y1, x2, y2, score]},{“mass”: [x1, y1, x2, y2, score]},…]. x1, y1, x2, y2 are left, top, right, bottom coordinates of the bounding box.
+If you want evaluate your detection results, please use **eval.py**. The detection results of each test sample should be stored as a JSON file. The JSON file name needs to be the same as the Image file name. For example, 10000.png corresponds to 10000.json. The format in each JSON file is [{“nodule”: [x1, y1, x2, y2, score]}, {“mass”: [x1, y1, x2, y2, score]}, …]. x1, y1, x2, y2 are left, top, right, bottom coordinates of the bounding box. All JSON files should be put in one folder.
