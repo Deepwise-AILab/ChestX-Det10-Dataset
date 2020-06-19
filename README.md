@@ -23,5 +23,6 @@ If you need to use ChestX-Det10, please cite the paper: https://arxiv.org/abs/20
     archivePrefix={arXiv},
     primaryClass={eess.IV}
 }
+, and the original paper: Wang, Xiaosong, et al. "Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 
 If you want to evaluate your detection results, please use **eval.py**. The detection results of each test sample should be stored as a JSON file. The JSON file name needs to be the same as the Image file name. For example, 10000.png corresponds to 10000.json. The format in each JSON file is [{“nodule”: [x1, y1, x2, y2, score]}, {“mass”: [x1, y1, x2, y2, score]}, …]. x1, y1, x2, y2 are left, top, right, bottom coordinates of the bounding box. All JSON files should be put in one folder.
