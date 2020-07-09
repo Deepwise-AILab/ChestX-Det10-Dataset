@@ -10,7 +10,7 @@ The format in annotation files are: "file_name": "xxx.png", "syms": [s1, s2, ...
 x1, y1, x2, y2 are left, top, right, bottom coordinates of the bounding box.
 
 Below is an example annotation of one sample:
-{"file_name": "00000042_006.png", "syms": ["Fibrosis", "Fibrosis"], "boxes": [[632, 721, 909, 969], [129, 611, 474, 909]]}
+{"file_name": "36199.png", "syms": ["Fibrosis", "Fibrosis"], "boxes": [[632, 721, 909, 969], [129, 611, 474, 909]]}
 
 For image downloading, please visit http://resource.deepwise.com/xraychallenge/train_data.zip and http://resource.deepwise.com/xraychallenge/test_data.zip
 
