@@ -12,7 +12,7 @@ x1, y1, x2, y2 are left, top, right, bottom coordinates of the bounding box.
 Below is an example annotation of one sample:
 {"file_name": "00000042_006.png", "syms": ["Fibrosis", "Fibrosis"], "boxes": [[632, 721, 909, 969], [129, 611, 474, 909]]}
 
-For image downloading, please visit https://nihcc.app.box.com/v/ChestXray-NIHCC
+For image downloading, please visit http://resource.deepwise.com/xraychallenge/train_data.zip and http://resource.deepwise.com/xraychallenge/test_data.zip
 
 If you need to use ChestX-Det10, please cite the paper: https://arxiv.org/abs/2006.10550
 @misc{liu2020chestxdet10,
