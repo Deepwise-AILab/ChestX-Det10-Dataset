@@ -30,7 +30,7 @@ For image downloading, please visit http://resource.deepwise.com/xraychallenge/t
 
 ## ChestX-Det10 Challenge：
 
-We organized a competition named ChestX-Det10 Challenge. The challenge was divided into two rounds and more than one hundred teams participated in the challenge. Finally, six teams reached the second round. The challenge results are reported in https://arxiv.org/abs/xxxx.xxx.
+We organized a competition named ChestX-Det10 Challenge. The challenge was divided into two rounds and more than one hundred teams participated in the challenge. Finally, six teams reached the second round. The challenge results are reported in https://arxiv.org/abs/2010.10298.
 
 ## Evaluation：
 
